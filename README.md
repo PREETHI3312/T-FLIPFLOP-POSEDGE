@@ -1,4 +1,5 @@
-# T-FLIPFLOP-POSEDGE
+# DATE:
+# EXP-9:T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -8,7 +9,7 @@ To implement  T flipflop using verilog and validating their functionality using 
 
 Quartus prime
 
-**THEORY**
+
 
 **T Flip-Flop**
 
